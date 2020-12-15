@@ -2,7 +2,7 @@
 Simple nick generator written in Python)
 
 
-'''Example output:
+```Example output:
 
 English             Русский
 
@@ -15,4 +15,4 @@ Cuvajak50           Ужажажи41
 Zhahesu30           Укошофе39
 Jonybavthzh49       Удесэж23
 Shileyiba88         Эниспхе70
-Hujova26            Окацэз07'''
+Hujova26            Окацэз07```
