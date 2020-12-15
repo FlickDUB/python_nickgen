@@ -2,7 +2,8 @@
 Simple nick generator written in Python)
 
 
-```Example output:
+```
+Example output:
 
 English             Русский
 
