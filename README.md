@@ -1,4 +1,4 @@
-# python_nickgen
+# 🐍python_nickgen
 Simple nick generator written in Python)
 
 
